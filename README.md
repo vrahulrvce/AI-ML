@@ -1,5 +1,6 @@
 # Poseter Overview for the project
 
 
+![Copy of Poster Template (1)](https://github.com/user-attachments/assets/6ef8b98c-8a12-40bf-ab8c-3444ed48ec94)
 
-![Copy of Poster Template](https://github.com/user-attachments/assets/f5596902-2dae-4985-ac40-ff2b992cc77c)
+
